@@ -1,0 +1,11 @@
+com/example/icecream/controller/IceCreamController.class
+com/example/icecream/model/IceCream.class
+com/example/icecream/repository/CategoryRepository.class
+com/example/icecream/config/WebConfig.class
+com/example/icecream/repository/IceCreamRepository.class
+com/example/icecream/controller/FileUploadController$UploadResponse.class
+com/example/icecream/model/Category.class
+com/example/icecream/exception/ResourceNotFoundException.class
+com/example/icecream/controller/HomeController.class
+com/example/icecream/IcecreamApplication.class
+com/example/icecream/controller/FileUploadController.class
